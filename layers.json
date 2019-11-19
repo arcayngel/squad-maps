@@ -6,7 +6,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true    
   },
   "Al Basrah Invasion v1": {
     "map": "Al Basrah",
@@ -15,7 +17,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Al Basrah AAS v1": {
     "map": "Al Basrah",
@@ -24,7 +28,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Al Basrah Invasion v2": {
     "map": "Al Basrah",
@@ -33,7 +39,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Al Basrah RAAS v1": {
     "map": "Al Basrah",
@@ -42,7 +50,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Al Basrah Skirmish v1": {
     "map": "Al Basrah",
@@ -51,7 +61,9 @@
     "night": false,
     "middleFlags": ["Crossroads"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Al Basrah Skirmish v2": {
     "map": "Al Basrah",
@@ -60,7 +72,9 @@
     "night": false,
     "middleFlags": ["Poppy West", "Poppy East"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Al Basrah TC v1": {
     "map": "Al Basrah",
@@ -69,7 +83,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers":50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Al Basrah TC v2": {
     "map": "Al Basrah",
@@ -78,7 +94,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers":50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya AAS v1": {
     "map": "Belaya",
@@ -87,7 +105,9 @@
     "night": false,
     "middleFlags": ["Train Tunnel"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya Invasion v1": {
     "map": "Belaya",
@@ -96,7 +116,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya Invasion v2": {
     "map": "Belaya",
@@ -105,7 +127,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya Invasion v3": {
     "map": "Belaya",
@@ -114,7 +138,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya RAAS v1": {
     "map": "Belaya",
@@ -123,7 +149,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya RAAS v2": {
     "map": "Belaya",
@@ -132,7 +160,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya RAAS v3": {
     "map": "Belaya",
@@ -141,7 +171,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya Skirmish v1": {
     "map": "Belaya",
@@ -150,7 +182,9 @@
     "night": false,
     "middleFlags": ["Velino DC"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Belaya TC v1": {
     "map": "Belaya",
@@ -159,7 +193,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora AAS v1": {
     "map": "Chora",
@@ -168,7 +204,9 @@
     "night": false,
     "middleFlags": ["Upper Orchard", "Radio Station"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora AAS v2": {
     "map": "Chora",
@@ -177,7 +215,9 @@
     "night": false,
     "middleFlags": ["Hemp Farm"],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora Insurgency v1": {
     "map": "Chora",
@@ -186,7 +226,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora Invasion v1": {
     "map": "Chora",
@@ -195,7 +237,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora Invasion v1 Night": {
     "map": "Chora",
@@ -204,7 +248,9 @@
     "night": true,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora RAAS v1": {
     "map": "Chora",
@@ -213,7 +259,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora RAAS v2": {
     "map": "Chora",
@@ -222,7 +270,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora Skirmish v1": {
     "map": "Chora",
@@ -231,7 +281,9 @@
     "night": false,
     "middleFlags": ["Vineyard", "RT&M"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Chora TC v1": {
     "map": "Chora",
@@ -240,7 +292,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road AAS v1": {
     "map": "Fool's Road",
@@ -249,7 +303,9 @@
     "night": false,
     "middleFlags": ["Ammo Hill"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road AAS v3": {
     "map": "Fool's Road",
@@ -258,7 +314,9 @@
     "night": false,
     "middleFlags": ["FOB Papanov"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road Destruction v1": {
     "map": "Fool's Road",
@@ -267,7 +325,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road RAAS v1": {
     "map": "Fool's Road",
@@ -276,7 +336,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road RAAS v2": {
     "map": "Fool's Road",
@@ -285,7 +347,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road RAAS v3": {
     "map": "Fool's Road",
@@ -294,7 +358,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road Skirmish v1": {
     "map": "Fool's Road",
@@ -303,7 +369,9 @@
     "night": false,
     "middleFlags": ["Train Station"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road Skirmish v2": {
     "map": "Fool's Road",
@@ -312,7 +380,9 @@
     "night": false,
     "middleFlags": ["Hilltop Encampment"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Fool's Road TC v1": {
     "map": "Fool's Road",
@@ -321,7 +391,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok AAS v1": {
     "map": "Gorodok",
@@ -330,7 +402,9 @@
     "night": false,
     "middleFlags": ["Ambush Hill", "Niva Upper"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok AAS v2": {
     "map": "Gorodok",
@@ -339,7 +413,9 @@
     "night": false,
     "middleFlags": ["Industrial Park", "Pavlov's Farm"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok Destruction v1": {
     "map": "Gorodok",
@@ -348,7 +424,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok Insurgency v1": {
     "map": "Gorodok",
@@ -357,7 +435,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok Invasion v1": {
     "map": "Gorodok",
@@ -366,7 +446,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok Invasion v2": {
     "map": "Gorodok",
@@ -375,7 +457,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok RAAS v1": {
     "map": "Gorodok",
@@ -384,7 +468,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok RAAS v2": {
     "map": "Gorodok",
@@ -393,7 +479,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok RAAS v3": {
     "map": "Gorodok",
@@ -402,7 +490,9 @@
     "night": true,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok RAAS v4": {
     "map": "Gorodok",
@@ -411,7 +501,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok RAAS v5": {
     "map": "Gorodok",
@@ -420,7 +512,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok Skirmish v1": {
     "map": "Gorodok",
@@ -429,7 +523,9 @@
     "night": false,
     "middleFlags": ["Niva Foothills"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok TC v1": {
     "map": "Gorodok",
@@ -438,7 +534,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok_RAAS_v2_CAF_2": {
     "map": "Gorodok",
@@ -447,7 +545,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok_TC_v1_CAF": {
     "map": "Gorodok",
@@ -456,7 +556,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Gorodok_Invasion_v2_CAF": {
     "map": "Gorodok",
@@ -465,7 +567,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Jensen's Range v1": {
     "map": "Jensen's",
@@ -474,7 +578,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 0,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Jensen's Range v2": {
     "map": "Jensen's",
@@ -483,7 +589,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 0,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Jensen's Range v3": {
     "map": "Jensen's",
@@ -492,7 +600,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 0,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh AAS v1": {
     "map": "Kamdesh",
@@ -501,7 +611,9 @@
     "night": false,
     "middleFlags": ["Nahrain"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh Insurgency v1": {
     "map": "Kamdesh",
@@ -510,7 +622,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh Insurgency v2": {
     "map": "Kamdesh",
@@ -519,7 +633,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh Invasion v1": {
     "map": "Kamdesh",
@@ -528,7 +644,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh Invasion v2": {
     "map": "Kamdesh",
@@ -537,7 +655,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh Invasion v3": {
     "map": "Kamdesh",
@@ -546,7 +666,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh RAAS v1": {
     "map": "Kamdesh",
@@ -555,7 +677,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh RAAS v2": {
     "map": "Kamdesh",
@@ -564,7 +688,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh RAAS v3": {
     "map": "Kamdesh",
@@ -573,7 +699,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh RAAS v4": {
     "map": "Kamdesh",
@@ -582,7 +710,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh Skirmish v1": {
     "map": "Kamdesh",
@@ -591,7 +721,9 @@
     "night": false,
     "middleFlags": ["Nahrain"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh TC v1": {
     "map": "Kamdesh",
@@ -600,7 +732,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh TC v2": {
     "map": "Kamdesh",
@@ -609,7 +743,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh_Invasion_v2_CAF": {
     "map": "Kamdesh",
@@ -618,7 +754,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh_RAAS_v4_CAF": {
     "map": "Kamdesh",
@@ -627,7 +765,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kamdesh_TC_v1_CAF": {
     "map": "Kamdesh",
@@ -636,7 +776,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat AAS v1": {
     "map": "Kohat",
@@ -645,7 +787,9 @@
     "night": false,
     "middleFlags": ["Malak Abad"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat Insurgency v1": {
     "map": "Kohat",
@@ -654,7 +798,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat Invasion v1": {
     "map": "Kohat",
@@ -663,7 +809,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat Invasion v2": {
     "map": "Kohat",
@@ -672,7 +820,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat RAAS v1": {
     "map": "Kohat",
@@ -681,7 +831,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat RAAS v2": {
     "map": "Kohat",
@@ -690,7 +842,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat RAAS v3": {
     "map": "Kohat",
@@ -699,7 +853,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat RAAS v4": {
     "map": "Kohat",
@@ -708,7 +864,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat Skirmish v1": {
     "map": "Kohat",
@@ -717,7 +875,9 @@
     "night": false,
     "middleFlags": ["Syed Abad"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat TC v1": {
     "map": "Kohat",
@@ -726,7 +886,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers":50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat_Insurgency_v1_CAF": {
     "map": "Kohat",
@@ -735,7 +897,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat_Invasion_v1_CAF": {
     "map": "Kohat",
@@ -744,7 +908,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat_TC_v1": {
     "map": "Kohat",
@@ -753,7 +919,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kohat_RAAS_v3": {
     "map": "Kohat",
@@ -762,7 +930,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kokan Valley AAS v1": {
     "map": "Kokan Valley",
@@ -771,7 +941,9 @@
     "night": false,
     "middleFlags": ["Tempest Estate"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kokan RAAS v1": {
     "map": "Kokan",
@@ -780,7 +952,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kokan RAAS v2": {
     "map": "Kokan",
@@ -789,7 +963,9 @@
   "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kokan Invasion v1": {
     "map": "Kokan",
@@ -798,7 +974,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kokan Insurgency v1": {
     "map": "Kokan",
@@ -807,7 +985,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kokan Skirmish v1": {
     "map": "Kokan",
@@ -816,7 +996,9 @@
     "night": false,
     "middleFlags": ["Slums"],
     "minPlayers": 0,
-    "maxPlayers": 54
+    "maxPlayers": 54,
+    "geography": "City",
+    "latecutoff": true
   },
   "Kokan TC v1": {
     "map": "Kokan",
@@ -825,7 +1007,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Logar Valley AAS v1": {
     "map": "Logar Valley",
@@ -834,7 +1018,9 @@
     "night": false,
     "middleFlags": ["Central DC 1", "Central DC 2"],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Logar Valley AAS v2": {
     "map": "Logar Valley",
@@ -843,7 +1029,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Logar Valley RAAS v1": {
     "map": "Logar Valley",
@@ -852,7 +1040,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Logar Valley RAAS v1 Night": {
     "map": "Logar Valley",
@@ -861,7 +1051,9 @@
     "night": true,
     "middleFlags": [],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Logar Valley Insurgency v1": {
     "map": "Logar Valley",
@@ -870,7 +1062,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Logar Valley Skirmish v1": {
     "map": "Logar Valley",
@@ -879,7 +1073,9 @@
     "night": false,
     "middleFlags": ["Central DC"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Logar Valley TC v1": {
     "map": "Logar Valley",
@@ -888,7 +1084,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Manic_RAAS_v1": {
     "map": "Manic",
@@ -897,7 +1095,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Manic_RAAS_v2": {
     "map": "Manic",
@@ -906,7 +1106,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Manic_Invasion_v1": {
     "map": "Manic",
@@ -915,7 +1117,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Manic_Invasion_v2": {
     "map": "Manic",
@@ -924,7 +1128,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Manic_TC_v1": {
     "map": "Manic",
@@ -933,7 +1139,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Manic_Skirmish_v1": {
     "map": "Manic",
@@ -942,7 +1150,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mestia AAS v1": {
     "map": "Mestia",
@@ -951,7 +1161,9 @@
     "night": false,
     "middleFlags": ["Crucible Alpha Bravo"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mestia Invasion v1": {
     "map": "Mestia",
@@ -960,7 +1172,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mestia Invasion v2": {
     "map": "Mestia",
@@ -969,7 +1183,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mestia RAAS v1": {
     "map": "Mestia",
@@ -978,7 +1194,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mestia Skirmish v1": {
     "map": "Mestia",
@@ -987,7 +1205,9 @@
     "night": false,
     "middleFlags": ["Tunnels North", "Abandoned Buildings"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mestia TC v1": {
     "map": "Mestia",
@@ -996,7 +1216,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mutaha Skirmish v1": {
     "map": "Mutaha",
@@ -1005,7 +1227,9 @@
     "night": false,
     "middleFlags": ["Collapsed Crane"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mutaha AAS v1": {
     "map": "Mutaha",
@@ -1014,7 +1238,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mutaha Invasion v1": {
     "map": "Mutaha",
@@ -1023,7 +1249,9 @@
     "night": true,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mutaha RAAS v1": {
     "map": "Mutaha",
@@ -1032,7 +1260,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mutaha TC v1": {
     "map": "Mutaha",
@@ -1041,7 +1271,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Mutaha TC v2": {
     "map": "Mutaha",
@@ -1050,7 +1282,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Nanisivik_Invasion_v1": {
     "map": "Nanisivik",
@@ -1059,7 +1293,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Nanisivik_Invasion_v2": {
     "map": "Nanisivik",
@@ -1068,7 +1304,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Nanisivik_RAAS_v1": {
     "map": "Nanisivik",
@@ -1077,7 +1315,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Nanisivik_RAAS_v2": {
     "map": "Nanisivik",
@@ -1086,7 +1326,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva AAS v1": {
     "map": "Narva",
@@ -1095,7 +1337,9 @@
     "night": false,
     "middleFlags": ["Geneva Apts", "Train Depot"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva AAS v2": {
     "map": "Narva",
@@ -1104,7 +1348,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva AAS v3": {
     "map": "Narva",
@@ -1113,7 +1359,9 @@
     "night": false,
     "middleFlags": ["Quarry"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva Destruction v1": {
     "map": "Narva",
@@ -1122,7 +1370,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva Invasion v1": {
     "map": "Narva",
@@ -1131,7 +1381,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva Invasion v2": {
     "map": "Narva",
@@ -1140,7 +1392,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva RAAS v1": {
     "map": "Narva",
@@ -1149,7 +1403,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva Skirmish v1": {
     "map": "Narva",
@@ -1158,7 +1414,9 @@
     "night": false,
     "middleFlags": ["Geneva Apartments"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva TC v1": {
     "map": "Narva",
@@ -1167,7 +1425,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Narva TC v2": {
     "map": "Narva",
@@ -1176,7 +1436,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo AAS v1": {
     "map": "Skorpo",
@@ -1185,7 +1447,9 @@
     "night": false,
     "middleFlags": ["Uskedalen Marina"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo Invasion v1": {
     "map": "Skorpo",
@@ -1194,7 +1458,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo Invasion v2": {
     "map": "Skorpo",
@@ -1203,7 +1469,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo RAAS v1": {
     "map": "Skorpo",
@@ -1212,7 +1480,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo RAAS v2": {
     "map": "Skorpo",
@@ -1221,7 +1491,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo RAAS v3": {
     "map": "Skorpo",
@@ -1230,7 +1502,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo RAAS v4": {
     "map": "Skorpo",
@@ -1239,7 +1513,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo Skirmish v1": {
     "map": "Skorpo",
@@ -1248,7 +1524,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo TC v1": {
     "map": "Skorpo",
@@ -1257,7 +1535,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo TC v2": {
     "map": "Skorpo",
@@ -1266,7 +1546,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Skorpo TC v3": {
     "map": "Skorpo",
@@ -1275,7 +1557,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Sumari AAS v1": {
     "map": "Sumari",
@@ -1284,7 +1568,9 @@
     "night": false,
     "middleFlags": ["Mosque"],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Sumari Insurgency v1": {
     "map": "Sumari",
@@ -1293,7 +1579,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Sumari RAAS v1": {
     "map": "Sumari",
@@ -1302,7 +1590,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Sumari RAAS v2": {
     "map": "Sumari",
@@ -1311,7 +1601,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 36,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Sumari Skirmish v1": {
     "map": "Sumari",
@@ -1320,7 +1612,9 @@
     "night": false,
     "middleFlags": ["Walled Courts"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Sumari TC v1": {
     "map": "Sumari",
@@ -1329,7 +1623,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts AAS v1": {
     "map": "Tallil Outskirts",
@@ -1338,7 +1634,9 @@
     "night": false,
     "middleFlags": ["Abandoned Soviet Base"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts Invasion v1": {
     "map": "Tallil Outskirts",
@@ -1347,7 +1645,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts Invasion v2": {
     "map": "Tallil Outskirts",
@@ -1356,7 +1656,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts RAAS v1": {
     "map": "Tallil Outskirts",
@@ -1365,7 +1667,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts RAAS v2": {
     "map": "Tallil Outskirts",
@@ -1374,7 +1678,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts RAAS v3": {
     "map": "Tallil Outskirts",
@@ -1383,7 +1689,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts RAAS v4": {
     "map": "Tallil Outskirts",
@@ -1392,7 +1700,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts Skirmish v1": {
     "map": "Tallil Outskirts",
@@ -1401,7 +1711,9 @@
     "night": false,
     "middleFlags": ["Amiris Abode", "Riverside Khidhir"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts Skirmish v2": {
     "map": "Tallil Outskirts",
@@ -1410,7 +1722,9 @@
     "night": false,
     "middleFlags": ["Central Barracks"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts Skirmish v3": {
     "map": "Tallil Outskirts",
@@ -1419,7 +1733,9 @@
     "night": false,
     "middleFlags": ["Bwlyt Tawn"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts Tanks v1 Experimental": {
     "map": "Tallil Outskirts",
@@ -1428,7 +1744,9 @@
     "night": false,
     "middleFlags": ["Central Airfield"],
     "minPlayers": 0,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts Tanks v2 Experimental": {
     "map": "Tallil Outskirts",
@@ -1437,7 +1755,9 @@
     "night": false,
     "middleFlags": ["Central Airfield"],
     "minPlayers": 0,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Tallil Outskirts TC v1": {
     "map": "Tallil Outskirts",
@@ -1446,7 +1766,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka AAS v1": {
     "map": "Yehorivka",
@@ -1455,7 +1777,9 @@
     "night": false,
     "middleFlags": ["Yevhinivka"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka AAS v2": {
     "map": "Yehorivka",
@@ -1464,7 +1788,9 @@
     "night": false,
     "middleFlags": ["West Mogilyovo","Bilovia"],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka Destruction v1": {
     "map": "Yehorivka",
@@ -1473,7 +1799,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka Invasion v1": {
     "map": "Yehorivka",
@@ -1482,7 +1810,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka Invasion v2": {
     "map": "Yehorivka",
@@ -1491,7 +1821,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka RAAS v1": {
     "map": "Yehorivka",
@@ -1500,7 +1832,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka_CAF_RAAS_v1": {
     "map": "Yehorivka",
@@ -1509,7 +1843,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka RAAS v2": {
     "map": "Yehorivka",
@@ -1518,7 +1854,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka RAAS v3": {
     "map": "Yehorivka",
@@ -1527,7 +1865,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka RAAS v4": {
     "map": "Yehorivka",
@@ -1536,7 +1876,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka RAAS v5": {
     "map": "Yehorivka",
@@ -1545,7 +1887,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka Skirmish v1": {
     "map": "Yehorivka",
@@ -1554,7 +1898,9 @@
     "night": false,
     "middleFlags": ["Upper Petrivka"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka Skirmish v2": {
     "map": "Yehorivka",
@@ -1563,7 +1909,9 @@
     "night": false,
     "middleFlags": ["Thunderdome"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka Skirmish v3": {
     "map": "Yehorivka",
@@ -1572,7 +1920,9 @@
     "night": false,
     "middleFlags": ["West Mogilyovo"],
     "minPlayers": 0,
-    "maxPlayers": 36
+    "maxPlayers": 36,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka TC v1": {
     "map": "Yehorivka",
@@ -1581,7 +1931,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka TC v2": {
     "map": "Yehorivka",
@@ -1590,7 +1942,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka_CAF_TC_v3": {
     "map": "Yehorivka",
@@ -1599,7 +1953,9 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   },
   "Yehorivka_Invasion_CAF_v1": {
     "map": "Yehorivka",
@@ -1608,6 +1964,8 @@
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
-    "maxPlayers": 80
+    "maxPlayers": 80,
+    "geography": "City",
+    "latecutoff": true
   }
 }
