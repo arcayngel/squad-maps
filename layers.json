@@ -241,11 +241,11 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Chora Invasion v1 Night": {
+  "Chora Invasion v2": {
     "map": "Chora",
     "gamemode": "Invasion",
-    "version": "v1",
-    "night": true,
+    "version": "v2",
+    "night": false,
     "middleFlags": [],
     "minPlayers": 50,
     "maxPlayers": 80,
@@ -307,10 +307,10 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
-  "Fool's Road AAS v3": {
+  "Fool's Road AAS v2": {
     "map": "Fool's Road",
     "gamemode": "AAS",
-    "version": "v3",
+    "version": "v2",
     "night": false,
     "middleFlags": ["FOB Papanov"],
     "minPlayers": 50,
@@ -321,6 +321,17 @@
   "Fool's Road Destruction v1": {
     "map": "Fool's Road",
     "gamemode": "Destruction",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Eastern Europe",
+    "latecutoff": true
+  },
+  "Fool's Road Invasion v1": {
+    "map": "Fool's Road",
+    "gamemode": "Invasion",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -538,10 +549,10 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
-  "Gorodok_RAAS_v2_CAF_2": {
+  "CAF_Gorodok_RAAS_v1": {
     "map": "Gorodok",
     "gamemode": "RAAS",
-    "version": "v2_CAF_2",
+    "version": "v1_CAF",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -549,7 +560,18 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
-  "Gorodok_TC_v1_CAF": {
+  "CAF_Gorodok_RAAS_v2": {
+    "map": "Gorodok",
+    "gamemode": "RAAS",
+    "version": "v2_CAF",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Eastern Europe",
+    "latecutoff": true
+  },
+  "CAF_Gorodok_TC_v1": {
     "map": "Gorodok",
     "gamemode": "TC",
     "version": "v1_CAF",
@@ -560,10 +582,10 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
-  "Gorodok_Invasion_v2_CAF": {
+  "CAF_Gorodok_Invasion_v1": {
     "map": "Gorodok",
     "gamemode": "Invasion",
-    "version": "v2_CAF",
+    "version": "v1_CAF",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -747,10 +769,10 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Kamdesh_Invasion_v2_CAF": {
+  "CAF_Kamdesh_Invasion_v1": {
     "map": "Kamdesh",
     "gamemode": "Invasion",
-    "version": "v2_CAF",
+    "version": "v1_CAF",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -758,10 +780,10 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Kamdesh_RAAS_v4_CAF": {
+  "CAF_Kamdesh_RAAS_v1": {
     "map": "Kamdesh",
     "gamemode": "RAAS",
-    "version": "v4_CAF",
+    "version": "v1_CAF",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -769,7 +791,7 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Kamdesh_TC_v1_CAF": {
+  "CAF_Kamdesh_TC_v1": {
     "map": "Kamdesh",
     "gamemode": "TC",
     "version": "v1_CAF",
@@ -890,43 +912,10 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Kohat_Insurgency_v1_CAF": {
+  "CAF_Kohat_Invasion_v1": {
     "map": "Kohat",
     "gamemode": "Insurgency",
     "version": "v1_CAF",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "Southern Asia",
-    "latecutoff": true
-  },
-  "Kohat_Invasion_v1_CAF": {
-    "map": "Kohat",
-    "gamemode": "Invasion",
-    "version": "v1_CAF",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "Southern Asia",
-    "latecutoff": true
-  },
-  "Kohat_TC_v1": {
-    "map": "Kohat",
-    "gamemode": "TC",
-    "version": "v1_CAF",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "Southern Asia",
-    "latecutoff": true
-  },
-  "Kohat_RAAS_v3": {
-    "map": "Kohat",
-    "gamemode": "RAAS",
-    "version": "v3",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -1044,17 +1033,6 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Logar Valley RAAS v1 Night": {
-    "map": "Logar Valley",
-    "gamemode": "RAAS",
-    "version": "v1",
-    "night": true,
-    "middleFlags": [],
-    "minPlayers": 36,
-    "maxPlayers": 80,
-    "geography": "Southern Asia",
-    "latecutoff": true
-  },
   "Logar Valley Insurgency v1": {
     "map": "Logar Valley",
     "gamemode": "Insurgency",
@@ -1088,7 +1066,7 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Manic_RAAS_v1": {
+  "CAF_Manic_RAAS_v1": {
     "map": "Manic",
     "gamemode": "RAAS",
     "version": "v1",
@@ -1099,7 +1077,7 @@
     "geography": "North America",
     "latecutoff": true
   },
-  "Manic_RAAS_v2": {
+  "CAF_Manic_RAAS_v2": {
     "map": "Manic",
     "gamemode": "RAAS",
     "version": "v2",
@@ -1110,7 +1088,29 @@
     "geography": "North America",
     "latecutoff": true
   },
-  "Manic_Invasion_v1": {
+  "CAF_Manic_RAAS_v3": {
+    "map": "Manic",
+    "gamemode": "RAAS",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "North America",
+    "latecutoff": true
+  },
+  "CAF_Manic_RAAS_v4": {
+    "map": "Manic",
+    "gamemode": "RAAS",
+    "version": "v4",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "North America",
+    "latecutoff": true
+  },
+  "CAF_Manic_Invasion_v1": {
     "map": "Manic",
     "gamemode": "Invasion",
     "version": "v1",
@@ -1121,7 +1121,7 @@
     "geography": "North America",
     "latecutoff": true
   },
-  "Manic_Invasion_v2": {
+  "CAF_Manic_Invasion_v2": {
     "map": "Manic",
     "gamemode": "Invasion",
     "version": "v2",
@@ -1132,7 +1132,7 @@
     "geography": "North America",
     "latecutoff": true
   },
-  "Manic_TC_v1": {
+  "CAF_Manic_TC_v1": {
     "map": "Manic",
     "gamemode": "TC",
     "version": "v1",
@@ -1143,10 +1143,21 @@
     "geography": "North America",
     "latecutoff": true
   },
-  "Manic_Skirmish_v1": {
+  "CAF_Manic_Skirmish_v1": {
     "map": "Manic",
     "gamemode": "Skirmish",
     "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 0,
+    "maxPlayers": 36,
+    "geography": "North America",
+    "latecutoff": true
+  },
+  "CAF_Manic_Skirmish_v2": {
+    "map": "Manic",
+    "gamemode": "Skirmish",
+    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 0,
@@ -1286,7 +1297,7 @@
     "geography": "Middle East",
     "latecutoff": true
   },
-  "Nanisivik_Invasion_v1": {
+  "CAF_Nanisivik_Invasion_v1": {
     "map": "Nanisivik",
     "gamemode": "Invasion",
     "version": "v1",
@@ -1297,32 +1308,10 @@
     "geography": "North America",
     "latecutoff": true
   },
-  "Nanisivik_Invasion_v2": {
-    "map": "Nanisivik",
-    "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "North America",
-    "latecutoff": true
-  },
-  "Nanisivik_RAAS_v1": {
+  "CAF_Nanisivik_RAAS_v1": {
     "map": "Nanisivik",
     "gamemode": "RAAS",
     "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "North America",
-    "latecutoff": true
-  },
-  "Nanisivik_RAAS_v2": {
-    "map": "Nanisivik",
-    "gamemode": "RAAS",
-    "version": "v2",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -1433,6 +1422,17 @@
     "map": "Narva",
     "gamemode": "TC",
     "version": "v2",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Eastern Europe",
+    "latecutoff": true
+  },
+  "CAF_Narva_RAAS_v1": {
+    "map": "Narva",
+    "gamemode": "RAAS",
+    "version": "CAF_v1",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
@@ -1660,6 +1660,17 @@
     "geography": "Middle East",
     "latecutoff": true
   },
+  "Tallil Outskirts Invasion v3": {
+    "map": "Tallil Outskirts",
+    "gamemode": "Invasion",
+    "version": "v3",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Middle East",
+    "latecutoff": true
+  },
   "Tallil Outskirts RAAS v1": {
     "map": "Tallil Outskirts",
     "gamemode": "RAAS",
@@ -1770,6 +1781,17 @@
     "geography": "Middle East",
     "latecutoff": true
   },
+  "CAF_Tallil_Outskirts_RAAS_v1": {
+    "map": "Tallil Outskirts",
+    "gamemode": "RAAS",
+    "version": "CAF_v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Middle East",
+    "latecutoff": true
+  },
   "Yehorivka AAS v1": {
     "map": "Yehorivka",
     "gamemode": "AAS",
@@ -1814,6 +1836,17 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
+  "CAF_Yehorivka_Invasion_v1": {
+    "map": "Yehorivka",
+    "gamemode": "Invasion",
+    "version": "CAF_v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Eastern Europe",
+    "latecutoff": true
+  },
   "Yehorivka Invasion v2": {
     "map": "Yehorivka",
     "gamemode": "Invasion",
@@ -1836,7 +1869,7 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
-  "Yehorivka_CAF_RAAS_v1": {
+  "CAF_Yehorivka_RAAS_v1": {
     "map": "Yehorivka",
     "gamemode": "RAAS",
     "version": "v1_CAF",
@@ -1957,7 +1990,7 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
-  "Yehorivka_Invasion_CAF_v1": {
+  "CAF_Yehorivka_TC_V1": {
     "map": "Yehorivka",
     "gamemode": "Invasion",
     "version": "v1_CAF",
