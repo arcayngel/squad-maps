@@ -1159,7 +1159,7 @@
     "gamemode": "Skirmish",
     "version": "v2",
     "night": false,
-    "middleFlags": [],
+    "middleFlags": ["Crash Site"],
     "minPlayers": 0,
     "maxPlayers": 36,
     "geography": "North America",
