@@ -1572,6 +1572,17 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
+  "Sumari Invasion v1": {
+    "map": "Sumari",
+    "gamemode": "Invasion",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Northern Europe",
+    "latecutoff": true
+  },
   "Sumari Insurgency v1": {
     "map": "Sumari",
     "gamemode": "Insurgency",
