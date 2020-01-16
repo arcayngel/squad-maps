@@ -1,4 +1,15 @@
-{
+{  
+  "Al Basrah AAS v1": {
+    "map": "Al Basrah",
+    "gamemode": "AAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Middle East",
+    "latecutoff": true
+  },
   "Al Basrah Insurgency v1": {
     "map": "Al Basrah",
     "gamemode": "Insurgency",
@@ -13,17 +24,6 @@
   "Al Basrah Invasion v1": {
     "map": "Al Basrah",
     "gamemode": "Invasion",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "Middle East",
-    "latecutoff": true
-  },
-  "Al Basrah AAS v1": {
-    "map": "Al Basrah",
-    "gamemode": "AAS",
     "version": "v1",
     "night": false,
     "middleFlags": [],
@@ -241,11 +241,11 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Chora Invasion v2": {
+  "Chora Invasion v1 Night": {
     "map": "Chora",
     "gamemode": "Invasion",
-    "version": "v2",
-    "night": false,
+    "version": "v1",
+    "night": true,
     "middleFlags": [],
     "minPlayers": 50,
     "maxPlayers": 80,
@@ -307,10 +307,10 @@
     "geography": "Eastern Europe",
     "latecutoff": true
   },
-  "Fool's Road AAS v2": {
+  "Fool's Road AAS v3": {
     "map": "Fool's Road",
     "gamemode": "AAS",
-    "version": "v2",
+    "version": "v3",
     "night": false,
     "middleFlags": ["FOB Papanov"],
     "minPlayers": 50,
@@ -923,17 +923,6 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
-  "Kokan Valley AAS v1": {
-    "map": "Kokan Valley",
-    "gamemode": "AAS",
-    "version": "v1",
-    "night": false,
-    "middleFlags": ["Tempest Estate"],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "Southern Asia",
-    "latecutoff": true
-  },
   "Kokan RAAS v1": {
     "map": "Kokan",
     "gamemode": "RAAS",
@@ -1000,6 +989,28 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
+  "Kokan Valley AAS v1": {
+    "map": "Kokan Valley",
+    "gamemode": "AAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Tempest Estate"],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Southern Asia",
+    "latecutoff": true
+  },
+  "Kokan Valley RAAS v1": {
+    "map": "Kokan Valley",
+    "gamemode": "RAAS",
+    "version": "v1",
+    "night": false,
+    "middleFlags": ["Tempest Estate"],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Southern Asia",
+    "latecutoff": true
+  },
   "Logar Valley AAS v1": {
     "map": "Logar Valley",
     "gamemode": "AAS",
@@ -1044,6 +1055,17 @@
     "geography": "Southern Asia",
     "latecutoff": true
   },
+  "Logar Valley Insurgency v1 Night": {
+    "map": "Logar Valley",
+    "gamemode": "Insurgency",
+    "version": "v1",
+    "night": true,
+    "middleFlags": [],
+    "minPlayers": 50,
+    "maxPlayers": 80,
+    "geography": "Southern Asia",
+    "latecutoff": true
+  },
   "Logar Valley Skirmish v1": {
     "map": "Logar Valley",
     "gamemode": "Skirmish",
@@ -1052,17 +1074,6 @@
     "middleFlags": ["Central DC"],
     "minPlayers": 0,
     "maxPlayers": 36,
-    "geography": "Southern Asia",
-    "latecutoff": true
-  },
-  "Logar Valley TC v1": {
-    "map": "Logar Valley",
-    "gamemode": "TC",
-    "version": "v1",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 36,
-    "maxPlayers": 80,
     "geography": "Southern Asia",
     "latecutoff": true
   },
@@ -1983,17 +1994,6 @@
     "map": "Yehorivka",
     "gamemode": "TC",
     "version": "v2",
-    "night": false,
-    "middleFlags": [],
-    "minPlayers": 50,
-    "maxPlayers": 80,
-    "geography": "Eastern Europe",
-    "latecutoff": true
-  },
-  "Yehorivka_CAF_TC_v3": {
-    "map": "Yehorivka",
-    "gamemode": "TC",
-    "version": "v3_CAF",
     "night": false,
     "middleFlags": [],
     "minPlayers": 50,
